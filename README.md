@@ -5,4 +5,5 @@ Lung segmentation is a vital task in medical image analysis that involves the ex
 ![SAM](https://github.com/behnampoorafkham/LungSegNet/blob/main/Sample.png)
 
 In our lung segmentation project, we utilized the powerful DeepLabV3Plus architecture, leveraging the capabilities of the ResNet50 model as the encoder. By incorporating DeepLabV3Plus, we harnessed its advanced features such as atrous spatial pyramid pooling (ASPP) and decoder modules to enhance the segmentation accuracy. Our model demonstrated exceptional performance, achieving a remarkable Mean IoU Score of 0.9559 and an impressively low Mean Dice Loss of 0.0226. These results highlight the effectiveness of our approach in accurately segmenting lung structures from medical images, enabling precise identification and analysis of lung regions. By leveraging the strengths of DeepLabV3Plus and utilizing ResNet50 as the encoder, our project contributes to advancing lung segmentation methodologies and has the potential to improve various clinical applications related to pulmonary health.
+
 ![RES](https://github.com/behnampoorafkham/LungSegNet/blob/main/Results.png)
